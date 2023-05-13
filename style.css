@@ -176,7 +176,7 @@ footer>p>a:hover{
     color: var(--cor2);
 }
 
-@media (max-width:412px) {
+@media (max-width:500px) {
     main{
         background-color: var(--cor1);
     }
