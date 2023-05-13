@@ -46,6 +46,8 @@ header p{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     min-width:400px;
+    padding-right: 10px;
+    padding-left: 10px;
     padding-bottom: 30px;
     margin: auto;
 }
